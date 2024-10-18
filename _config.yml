@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Gabriel Nogueira"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,33 +22,33 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gabriel Nogueira"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Software Engineer and Master's Student in Computer Science"
+  location         : "Brazil"
+  employer         : "Uni. Federal de Pernambuco"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gabrielnogueiraleite@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=s3U3HfkAAAAJ&view_op=list_works&gmla=ALUCkoUvbBJ8KgvrDRNcUVv1m3x71l17R1aeVkLkQiQBhcc1YnJ9SY1WRYrO66oWPc49Xrep-H4EToDQ327yLUbaYr8uQKkT5PbJ-aRG9GGavsrdOo7v4ecop5O78akLXCTsfLoFng9fC5Ny19Vim_-JbSCZ4uI&iaan=Gabriel+Leite"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "gabrielnogueiralt"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "gabrielnogueiralt/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

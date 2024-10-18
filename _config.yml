@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Gabriel Nogueira"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Software Engineer and Master's Student in Computer Science"
   location         : "Brazil"
   employer         : "Uni. Federal de Pernambuco"

@@ -27,7 +27,8 @@ This project is configured for a **user site** (the URL `https://<username>.gith
 1. Create a repository named exactly `<your-username>.github.io` on GitHub.
 2. Push this project to the `main` branch of that repository.
 3. In the repository settings, go to **Settings → Pages** and set **Source** to **GitHub Actions**.
-4. Every push to `main` will trigger [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml), which builds the site and publishes `dist/` via the official GitHub Pages action.
+4. Under **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**, then select the workflow **Deploy to GitHub Pages** (not the default Jekyll / `pages-build-deployment` workflow).
+5. Every push to `master` triggers [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml), which runs `npm run build` and publishes the `dist/` folder.
 
 The first deployment may take a minute or two. After it finishes, the site is live at `https://<your-username>.github.io/`.
 
